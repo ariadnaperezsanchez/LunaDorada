@@ -34,6 +34,7 @@ El sitio web de Luna Dorada ha sido desarrollado con el objetivo de transmitir l
 - git commit -m "Formulario de contacto con validación y mensaje de confirmación"
 
 ✨**Ficheros necesarios**
+- Index.html : Pagina principal
 - LunaDorada.html : Pagina principal descripción, elementos multimedia y localización.
 - CartaPremio.html : Carta de cocteles y una sección de ganar una experiencia.
 - Favoritos.html : Cocteles favoritos dedl usuario + imagenes con precios.
